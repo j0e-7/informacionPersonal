@@ -2,3 +2,4 @@ Joel Espinoza
 
 Av.Los chasquis
 cuarto semestre Software
+No se debe modificar desde GitHub.
